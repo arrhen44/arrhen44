@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I am **Arrhen Fejokwu, a Cloud Security Engineer with a Risk Analyst background**. I enjoy protecting cloud environments and ensuring compliance of systems hosted on the cloud. In my personal life, I enjoy problem-solving, traveling, photography, video games, and intellectual conversations.
+I am Arrhen Fejokwu, a Cloud Security Engineer and Solutions Architect with a Risk Analyst background. I enjoy protecting cloud environments and ensuring compliance of systems hosted on the cloud. In my personal life, I enjoy problem-solving, traveling, photography, video games, and intellectual conversations.
 
 - 🔐 I’m currently working on Terraform, Microsoft Entra ID, Microsft Sentinel, Microsoft Defender, AWS Network Firewall, and AWS GuardDuty 
 - 🌱 I’m currently learning Kubernetes
